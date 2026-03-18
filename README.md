@@ -5,7 +5,7 @@ This project focuses on detecting lung cancer from histopathological images usin
 
 The dataset used contains high-resolution microscopic images of lung and colon cancer tissues.
 
-📄 Project developed by Bhavya Shah and Shubham Dhaneshbhai Thakkar
+📄  Shubham Thakkar
 
 🚀 Features
 
